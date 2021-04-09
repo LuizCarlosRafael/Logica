@@ -1,4 +1,7 @@
 ### Hi there 👋
+Seja bem vindos!!!
+Estou  sempre em busca de conhecimento!!!
+Vamos compartilhar!!!!!
 
 <!--
 **LuizCarlosRafael/LuizCarlosRafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
